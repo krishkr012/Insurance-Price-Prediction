@@ -62,13 +62,13 @@ The Linear Regression model was able to identify the relationship between custom
 
 ## 👨‍💻 Author
 
-**Krrish Kumar**
+**Krish Kumar**
 
 B.Tech CSE Student | Machine Learning & Data Science Enthusiast
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/krishkr012
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/krish-kumar-740981344
 
 ---
 
